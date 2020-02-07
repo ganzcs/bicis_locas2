@@ -1,5 +1,4 @@
 function validateForm(){
-	/* Escribe tú código aquí */
 	function alertar(mensaje, elem){
 		var span = document.createElement('span');
 		span.innerHTML=mensaje;
